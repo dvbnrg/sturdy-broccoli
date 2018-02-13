@@ -1,2 +1,2 @@
 # sturdy-broccoli
-Hugo experiment
+Hugo experiments
